@@ -7,7 +7,7 @@ Each of these facilities is available for booking for one-hour durations.
 Booking is restricted to registered users exclusively. <br>
 Following the booking, users have the option to cancel their reservations up until the day prior to the scheduled date, with no charges. Nonetheless, if a user cancels for the third consecutive time or more, the complex enforces a Є10 penalty.
 
-The database should have the following elements:
+The database have the following elements:
 
 Tables: <br>
 members <br>
