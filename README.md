@@ -13,25 +13,25 @@ pending_terminations <br>
 rooms <br>
 bookings <br>
 
-View
-member_bookings
+View <br>
+member_bookings <br>
 
-Stored Procedures
-insert_new_member 
-delete_member 
-update_member_password 
-update_member_email 
-make_booking 
-update_payment 
-view_bookings 
-search_room 
-cancel_booking
+Stored Procedures <br>
+insert_new_member <br>
+delete_member <br>
+update_member_password <br>
+update_member_email <br>
+make_booking <br>
+update_payment <br>
+view_bookings <br>
+search_room <br>
+cancel_booking <br>
 
-Trigger
-payment_check
+Trigger <br>
+payment_check <br>
 
-Stored Function
-check_cancellation
+Stored Function <br>
+check_cancellation <br>
 
 
 
