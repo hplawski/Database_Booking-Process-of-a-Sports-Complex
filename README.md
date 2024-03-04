@@ -9,16 +9,16 @@ Following the booking, users have the option to cancel their reservations up unt
 
 The database should have the following elements:
 
-Tables <br>
+Tables: <br>
 members <br>
 pending_terminations <br>
 rooms <br>
 bookings <br>
 
-View <br>
+View: <br>
 member_bookings <br>
 
-Stored Procedures <br>
+Stored Procedures: <br>
 insert_new_member <br>
 delete_member <br>
 update_member_password <br>
@@ -29,10 +29,10 @@ view_bookings <br>
 search_room <br>
 cancel_booking <br>
 
-Trigger <br>
+Trigger: <br>
 payment_check <br>
 
-Stored Function <br>
+Stored Function: <br>
 check_cancellation <br>
 
 
