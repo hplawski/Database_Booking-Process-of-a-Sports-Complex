@@ -7,9 +7,11 @@ Booking is restricted to registered users exclusively. Following the booking, us
 
 The database should have the following elements:
 
-Tables
-members pending_terminations rooms
-bookings
+Tables <br>
+members <br>
+pending_terminations <br>
+rooms <br>
+bookings <br>
 
 View
 member_bookings
