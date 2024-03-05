@@ -1,4 +1,4 @@
-# Database_Booking-Process-of-a-Sports-Complex
+<h1 align="center">Database Booking Process of a Sports Complex</h1>
 This project requires to build a simple database to help manage the booking process of a sports complex.
 
 The sports complex offers the following amenities: 2 tennis courts, 2 badminton courts, 2 multi-purpose fields, and 1 archery range. <br>
